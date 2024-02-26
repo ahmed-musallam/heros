@@ -1,9 +1,11 @@
 # Your Project's Title...
+
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+
+- Preview: https://main--heros--ahmed-musallam.hlx.page/
+- Live: https://main--heros--ahmed-musallam.hlx.live/
 
 ## Installation
 
