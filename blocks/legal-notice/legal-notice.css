@@ -1,0 +1,14 @@
+.block.legal-notice {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  background-color: white;
+  width: 100%;
+  display: flex;
+}
+
+.block.legal-notice .button {
+  margin: 0;
+}
